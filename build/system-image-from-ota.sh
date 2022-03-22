@@ -302,3 +302,4 @@ logit "Can be removed: $REMOVE_LIST"
 sync
 
 logit "Done upgrading: $(date)"
+
